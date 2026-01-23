@@ -1,0 +1,31 @@
+# Data Structures and Algorithms
+
+1) Data :
+    It is a set of information or just raw information.
+
+2) Structures:
+    It is container to store the data.
+
+3) Algorithms:
+    It is a set of instructions.
+
+
+Together we can understand this by taking and example of software developement where we need data to build software, and we need to store this data in some data structure and to create software we have to follow some set of instructions.
+
+We have 3 types of cases in time complexity:
+1) Best Case (Ω)
+2) Average Case (Θ)
+3) Worst Case (O)
+
+And while calculating we always consider the Worst Case Time Complexity.
+
+There are various types of Time Complexity:
+1) Constant Time Complexity O(1)
+2) Linear Time Complexity O(n) 
+3) Quadratic Time Complexity O(n^2)
+4) Cubic Time Complexity O(n^3)
+5) Logerithimic Time Complexity O(logn)
+
+O(1) < O(logn) < O(n) < O(n^2) < O(n^3) 
+
+And we always take the biggest time complexity as final time complexity.
