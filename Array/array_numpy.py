@@ -58,3 +58,15 @@ print(two)
 
 three = np.array([[[1,2],[3,4],[5,6]]])
 print(three)
+
+s = "I love AI"
+s_n = []
+
+for i in s:
+    if i == " ":
+        continue
+    else:
+        s_n.append(i)
+print(s_n)
+for i in s_n:
+    print(s_n[-1:0])
