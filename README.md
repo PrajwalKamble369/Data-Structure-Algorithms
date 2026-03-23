@@ -13,3 +13,10 @@ I am tracking my daily study of data structure and algorithm in this notebook.
 - We can perform various operations on array.
 - We can accese array using slicing.
 - Array is store data index based
+
+### 23/03/2026
+- Starte Singly Linked list 
+- Understand what is singly linked list
+- Perform singlyLinked List Operations
+- Operations Performed insertatBegining, insertatEnd, insertintoMiddle
+- Started practicing singly linked list (created node class, created singlyll class add method insert at end and started practice) 
